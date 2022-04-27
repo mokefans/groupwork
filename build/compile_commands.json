@@ -1,0 +1,72 @@
+[
+{
+  "directory": "C:/Users/HP/Desktop/codefield/2021211313/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\2021211313.dir\\main.c.obj -c C:\\Users\\HP\\Desktop\\codefield\\2021211313\\main.c",
+  "file": "C:/Users/HP/Desktop/codefield/2021211313/main.c"
+},
+{
+  "directory": "C:/Users/HP/Desktop/codefield/2021211313/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\2021211313.dir\\analysis.c.obj -c C:\\Users\\HP\\Desktop\\codefield\\2021211313\\analysis.c",
+  "file": "C:/Users/HP/Desktop/codefield/2021211313/analysis.c"
+},
+{
+  "directory": "C:/Users/HP/Desktop/codefield/2021211313/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\2021211313.dir\\clearrequest.c.obj -c C:\\Users\\HP\\Desktop\\codefield\\2021211313\\clearrequest.c",
+  "file": "C:/Users/HP/Desktop/codefield/2021211313/clearrequest.c"
+},
+{
+  "directory": "C:/Users/HP/Desktop/codefield/2021211313/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\2021211313.dir\\destroy.c.obj -c C:\\Users\\HP\\Desktop\\codefield\\2021211313\\destroy.c",
+  "file": "C:/Users/HP/Desktop/codefield/2021211313/destroy.c"
+},
+{
+  "directory": "C:/Users/HP/Desktop/codefield/2021211313/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\2021211313.dir\\ending.c.obj -c C:\\Users\\HP\\Desktop\\codefield\\2021211313\\ending.c",
+  "file": "C:/Users/HP/Desktop/codefield/2021211313/ending.c"
+},
+{
+  "directory": "C:/Users/HP/Desktop/codefield/2021211313/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\2021211313.dir\\init.c.obj -c C:\\Users\\HP\\Desktop\\codefield\\2021211313\\init.c",
+  "file": "C:/Users/HP/Desktop/codefield/2021211313/init.c"
+},
+{
+  "directory": "C:/Users/HP/Desktop/codefield/2021211313/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\2021211313.dir\\input.c.obj -c C:\\Users\\HP\\Desktop\\codefield\\2021211313\\input.c",
+  "file": "C:/Users/HP/Desktop/codefield/2021211313/input.c"
+},
+{
+  "directory": "C:/Users/HP/Desktop/codefield/2021211313/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\2021211313.dir\\running.c.obj -c C:\\Users\\HP\\Desktop\\codefield\\2021211313\\running.c",
+  "file": "C:/Users/HP/Desktop/codefield/2021211313/running.c"
+},
+{
+  "directory": "C:/Users/HP/Desktop/codefield/2021211313/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\2021211313.dir\\service1.c.obj -c C:\\Users\\HP\\Desktop\\codefield\\2021211313\\service1.c",
+  "file": "C:/Users/HP/Desktop/codefield/2021211313/service1.c"
+},
+{
+  "directory": "C:/Users/HP/Desktop/codefield/2021211313/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\2021211313.dir\\service2.c.obj -c C:\\Users\\HP\\Desktop\\codefield\\2021211313\\service2.c",
+  "file": "C:/Users/HP/Desktop/codefield/2021211313/service2.c"
+},
+{
+  "directory": "C:/Users/HP/Desktop/codefield/2021211313/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\2021211313.dir\\service3.c.obj -c C:\\Users\\HP\\Desktop\\codefield\\2021211313\\service3.c",
+  "file": "C:/Users/HP/Desktop/codefield/2021211313/service3.c"
+},
+{
+  "directory": "C:/Users/HP/Desktop/codefield/2021211313/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\2021211313.dir\\sqlistadd.c.obj -c C:\\Users\\HP\\Desktop\\codefield\\2021211313\\sqlistadd.c",
+  "file": "C:/Users/HP/Desktop/codefield/2021211313/sqlistadd.c"
+},
+{
+  "directory": "C:/Users/HP/Desktop/codefield/2021211313/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\2021211313.dir\\stateprint.c.obj -c C:\\Users\\HP\\Desktop\\codefield\\2021211313\\stateprint.c",
+  "file": "C:/Users/HP/Desktop/codefield/2021211313/stateprint.c"
+},
+{
+  "directory": "C:/Users/HP/Desktop/codefield/2021211313/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\2021211313.dir\\whichstation.c.obj -c C:\\Users\\HP\\Desktop\\codefield\\2021211313\\whichstation.c",
+  "file": "C:/Users/HP/Desktop/codefield/2021211313/whichstation.c"
+}
+]
